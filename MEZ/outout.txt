@@ -1,0 +1,19 @@
+~<PPL Final Project>~ 	VALID SYNTAX
+signed Str a = 'd' ; 	VALID SYNTAX
+Num b = "wrong" ; 	VALID SYNTAX
+unsigned Num re [ 3 ] , one ; 	VALID SYNTAX
+Num b , c ; 	VALID SYNTAX
+register Str lool ; 	VALID SYNTAX
+Str nonsense ; 	VALID SYNTAX
+auto Num nu ; 	VALID SYNTAX
+re = { 23 , 4 , 11 } ; 	VALID SYNTAX
+c = 2 - 3 ; 	VALID SYNTAX
+c = "mismatch" ; 	VALID SYNTAX
+no = 3.33 ; 	VALID SYNTAX
+scan ( Str , lool ) ; 	VALID SYNTAX
+scan ( Str , notha ) ; 	VALID SYNTAX
+if( a != false ) { print ( loop + b ) ; } 	VALID SYNTAX
+if( nope > 2 ) { print ( pool + nana ) ; } else if ( b <= 3 ) { scan ( Num , nonsense ) ; } 	VALID SYNTAX
+c = ( 4 * 2 ) / ( 10 % 3 ) ; 	VALID SYNTAX
+for ( i = 1 ; ( b < 1 ) || ( b > 4 ) ; b = b + "b" ) { break + 1 ; } 	VALID SYNTAX
+S@dboi >= ( true // null ) ^ 2 && auto ! a == ; 	INVALID SYNTAX

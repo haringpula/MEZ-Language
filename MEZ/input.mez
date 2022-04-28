@@ -1,0 +1,35 @@
+~<PPL Final Project>~
+signed Str a = 'd' ;
+Num b = "wrong" ;
+unsigned Num re [ 3 ] , one ;
+Num b , c ;
+register Str lool ;
+Str nonsense ;
+auto Num nu ; 
+
+re = { 23 , 4 , 11 } ;
+c = 2 - 3 ;
+c = "mismatch" ;
+no = 3.33 ;
+
+scan ( Str , lool ) ;
+scan ( Str , notha ) ;
+
+if( a != false ) {
+    print ( "loop" + b ) ;
+}
+
+if( nope > 2 ) {
+    print ( "pool" + nana ) ;
+} else if ( b <= 3 ){
+    scan ( Num , nonsense ) ;
+}
+
+c = ( 4 * 2 ) / ( 10 % 3 ) ;
+
+for ( i = 1 ; ( b < 1 ) || ( b > 4 ) ; b = b + "b" ) {
+    
+    break + 1;
+} 
+
+S@dboi >= ( true // null ) ^ 2 && auto ! a == ;
